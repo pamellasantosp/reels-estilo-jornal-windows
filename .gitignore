@@ -1,0 +1,5 @@
+.venv/
+modelos/
+ferramentas/
+__pycache__/
+.DS_Store
